@@ -1,16 +1,16 @@
 # task3
 
-A new Flutter project.
+Part Of Flutter Diploma IT-Sharks 
 
 ## Getting Started
+This Project is the starting point for the task 
+### you need to do the following 
+    - add your photo to assets in pubspec.yaml file 
+    - do not forget to make the folder assets/images to your project file 
+    - add the url launcher package 
+    - do not forget to update info.plist and android minfist files 
+    - refactor the card code to be a new widget 
+    - you will need to add a new package to use facebook, twitter, or github icon ... please search it 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### that what we want to achive 
+<img src="/demos/output.png" height="600">
