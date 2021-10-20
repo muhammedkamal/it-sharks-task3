@@ -13,4 +13,4 @@ This Project is the starting point for the task
     - you will need to add a new package to use facebook, twitter, or github icon ... please search it 
 
 ### that what we want to achive 
-<img src="/demos/output.png" height="600">
+<img src="/demo/output.png" height="600">
